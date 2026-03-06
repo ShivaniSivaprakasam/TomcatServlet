@@ -160,5 +160,3 @@ http://localhost:8080/FirstServletProject/login.html
 
 **Shivani S**
 
-B.Tech Biotechnology
-Learning Java Web Development and Servlets
